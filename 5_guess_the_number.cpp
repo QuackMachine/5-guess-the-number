@@ -1,11 +1,6 @@
 /*
-* guess number between use input range
-* have 3 option for the amount of guesses
-
-! did not set up a timer
-! if timer runs out, user loses 1 guess
-! make the user has limited guess
-! have a timer for each guess
+* guess number between user's input range
+* user has limited amount of guesses
 */
 
 #include <iostream>
