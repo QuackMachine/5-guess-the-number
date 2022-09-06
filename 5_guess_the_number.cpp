@@ -36,7 +36,7 @@ int main()
         do {
             //start of the game
             cout << "Enter a number between: " << range1 << " - " << range2 << " \n";
-            cin >> answer;;
+            cin >> answer;
             //counting down
             attempt--;
         
